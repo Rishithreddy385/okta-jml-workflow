@@ -22,6 +22,7 @@ initial test users representing real-world workforce segments.
 
  # Screenshots
 ![Groups page](./groups.png)
+![Users page](./users.png)
 # What's next
 Phase 2: Build a mock HR source (CSV) and connect it for automated 
 provisioning via Okta's import/SCIM capabilities.
