@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,email,department,job_title,manager_email,start_date,end_date,status,employment_type
+E001,Maria,Rodriguez,maria.rodriguez@acmecorp.test,Engineering,Engineering Manager,,2022-06-01,,Active,FTE
+E002,Sarah,Chen,sarah.chen@acmecorp.test,Engineering,Senior Engineer,maria.rodriguez@acmecorp.test,2023-01-15,,Active,FTE
+E003,James,Patel,james.patel@acmecorp.test,Engineering,Software Engineer,sarah.chen@acmecorp.test,2024-03-01,,Active,FTE
+E004,Jessica,Taylor,jessica.taylor@acmecorp.test,Sales,Sales Director,,2022-04-10,,Active,FTE
+E005,David,Kim,david.kim@acmecorp.test,Sales,Account Executive,jessica.taylor@acmecorp.test,2023-09-15,,Active,FTE
+E006,Linda,Martin,linda.martin@acmecorp.test,Finance,Finance Director,,2021-11-20,,Active,FTE
+E007,Robert,Singh,robert.singh@acmecorp.test,Finance,Financial Analyst,linda.martin@acmecorp.test,2024-01-08,,Active,FTE
+E008,Tom,Wilson,tom.wilson@contractors.test,Engineering,Contract Developer,maria.rodriguez@acmecorp.test,2025-03-01,2026-09-01,Active,Contractor
+E009,Emily,Brown,emily.brown@acmecorp.test,Sales,Sales Development Rep,jessica.taylor@acmecorp.test,2026-07-01,,Pending,FTE
+E010,Mark,Davis,mark.davis@acmecorp.test,Finance,Senior Analyst,linda.martin@acmecorp.test,2022-08-15,2026-06-30,Terminated,FTE
