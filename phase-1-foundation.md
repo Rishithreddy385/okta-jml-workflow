@@ -21,7 +21,7 @@ initial test users representing real-world workforce segments.
   restricted entitlements) is materially different from FTE.
 
  # Screenshots
-    ![Groups page](./groups.png)
+![Groups page](./groups.png)
 # What's next
 Phase 2: Build a mock HR source (CSV) and connect it for automated 
 provisioning via Okta's import/SCIM capabilities.
